@@ -25,8 +25,7 @@ Clique <a href="" target="_blank" rel="noopener noreferrer">aqui</a>  para acess
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
-<img 
-    align="left"
+<img
     alt="Sass" 
     title="Sass"
     width="64px" 
