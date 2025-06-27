@@ -10,7 +10,7 @@ Aproveitei este desafio para me aprofundar no uso do SCSS, explorando variáveis
 
 ## ▶️ Demo
 
-Clique <a href="" target="_blank" rel="noopener noreferrer">aqui</a>  para acessar o projeto online
+Clique <a href="https://social-links-profile-fem-zeta.vercel.app/" target="_blank" rel="noopener noreferrer">aqui</a>  para acessar o projeto online
 
 ## ⚙️ Funcionalidades
 
