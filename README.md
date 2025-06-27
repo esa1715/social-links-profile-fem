@@ -4,8 +4,6 @@ Este projeto foi desenvolvido como parte do desafio [Social links profile](https
 
 Aproveitei este desafio para me aprofundar no uso do SCSS, explorando variáveis, aninhamento e melhor organização do CSS.
 
-
-
 ## 👀 Preview
 
 ![Preview do projeto](./assets/images/preview.png)
