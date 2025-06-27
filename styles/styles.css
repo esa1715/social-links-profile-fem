@@ -106,14 +106,19 @@ main .profile-main-info p {
   font-size: 0.875rem;
   text-align: center;
 }
-main ul {
+main nav {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+main nav ul {
   display: flex;
   flex-direction: column;
   align-items: center;
   width: 100%;
   gap: 1rem;
 }
-main ul li {
+main nav ul li {
   width: 100%;
   padding: 0.75rem 3rem;
   background-color: #333333;
@@ -125,7 +130,7 @@ main ul li {
   transition: background-color 0.4s ease, color 0.4s ease;
   cursor: pointer;
 }
-main ul li:hover {
+main nav ul li:hover {
   background-color: #c5f82a;
   color: #141414;
 }
