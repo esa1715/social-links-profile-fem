@@ -1,4 +1,4 @@
-# 👤 Social links profile (Frontend Mentor)
+# 👤 Social Links Profile (Frontend Mentor)
 
 Este projeto foi desenvolvido como parte do desafio [Social links profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ) da [Frontend Mentor](https://www.frontendmentor.io/home). A proposta era criar um **cartão de perfil com links para redes sociais**, seguindo um design pré-definido.
 
