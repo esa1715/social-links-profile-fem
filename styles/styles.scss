@@ -62,13 +62,11 @@ main {
         }
     }
     
-    
     nav {
         display: flex;
         flex-direction: column;
         width: 100%;
 
-    
         ul {
             display: flex;
             flex-direction: column;
@@ -76,22 +74,27 @@ main {
             width: 100%;
             gap: 1rem;
         
-        
             li {
                 width: 100%;
-                padding: 0.75rem 3rem;
-                background-color: $gray-700;
-                border-radius: 0.5rem;
-                text-align: center;
-                color: $white;
-                font-weight: 700;
-                font-size: 0.875rem;
-                transition: background-color 0.4s ease, color 0.4s ease;
-                cursor: pointer;
                 
+                a.link {
+                    display: block; 
+                    width: 100%;
+                    padding: 0.75rem 3rem;
+                    background-color: $gray-700;
+                    border-radius: 0.5rem;
+                    text-align: center;
+                    color: $white;
+                    font-weight: 700;
+                    font-size: 0.875rem;
+                    text-decoration: none;
+                    cursor: pointer;
+                    transition: background-color 0.4s ease, color 0.4s ease;
+
                 &:hover {
                     background-color: $green;
                     color: $gray-900;
+                }
                 }
             }
         }

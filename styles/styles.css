@@ -121,6 +121,10 @@ main nav ul {
 }
 main nav ul li {
   width: 100%;
+}
+main nav ul li a.link {
+  display: block;
+  width: 100%;
   padding: 0.75rem 3rem;
   background-color: #333333;
   border-radius: 0.5rem;
@@ -128,10 +132,11 @@ main nav ul li {
   color: #ffffff;
   font-weight: 700;
   font-size: 0.875rem;
-  transition: background-color 0.4s ease, color 0.4s ease;
+  text-decoration: none;
   cursor: pointer;
+  transition: background-color 0.4s ease, color 0.4s ease;
 }
-main nav ul li:hover {
+main nav ul li a.link:hover {
   background-color: #c5f82a;
   color: #141414;
 }
