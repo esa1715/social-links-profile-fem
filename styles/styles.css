@@ -82,6 +82,7 @@ main .profile-main-info {
 main .profile-main-info img {
   border-radius: 50%;
   width: 33%;
+  height: auto;
 }
 main .profile-main-info .profile-title {
   display: flex;
