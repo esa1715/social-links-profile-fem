@@ -12,8 +12,8 @@ Clique <a href="" target="_blank" rel="noopener noreferrer">aqui</a>  para acess
 
 ## ⚙️ Funcionalidades
 
-- 📱 **Design totalmente responsivo**, adaptando-se bem a diferentes tamanhos de tela.
-- 🎨 **Efeitos suaves** de hover nos links, com transições para uma melhor experiência visual.
+-📱 **Design totalmente responsivo**, adaptando-se perfeitamente a diferentes tamanhos de tela.
+- 🎨 **Efeitos de hover suaves nos links**, com transições que proporcionam uma experiência visual mais fluida.
 
 
 ## 💻 Tecnologias usadas
