@@ -3,7 +3,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-Este projeto foi desenvolvido como parte do desafio [Social links profile]() da [Frontend Mentor](https://www.frontendmentor.io/home). A proposta era criar um **cartão de perfil com links para redes sociais**, seguindo um design pré-definido.
+Este projeto foi desenvolvido como parte do desafio [Social links profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ) da [Frontend Mentor](https://www.frontendmentor.io/home). A proposta era criar um **cartão de perfil com links para redes sociais**, seguindo um design pré-definido.
 
 Aproveitei este desafio para me aprofundar no uso do SCSS, explorando variáveis, aninhamento e melhor organização do CSS.
 
