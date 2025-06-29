@@ -8,6 +8,7 @@ Este projeto foi desenvolvido como parte do desafio [Social links profile](https
 Aproveitei este desafio para me aprofundar no uso do SCSS, explorando variáveis, aninhamento e melhor organização do CSS.
 
 ## 🎯 O Desafio
+
 Os usuários devem ser capazes de:
 
 - Ver os estados de hover e foco para todos os elementos interativos na página.
